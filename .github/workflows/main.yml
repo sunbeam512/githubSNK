@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 name: generate animation SNK
 
 on:
